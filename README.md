@@ -111,4 +111,4 @@ Engineering students often face challenges in accessing centralized academic res
 
 ## 📄 License
 
-This project is intended for academic purposes. All rights reserved © 2024.
+This project is intended for academic purposes. All rights reserved © 2025.
